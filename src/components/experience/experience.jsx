@@ -1,9 +1,5 @@
-import React from 'react'
-
-const experience = () => {
-  return (
-    <div>experience</div>
-  )
-}
-
-export default experience
+import React from "react";
+export const experience = () => {
+  return <div>App</div>;
+};
+export default experience;
